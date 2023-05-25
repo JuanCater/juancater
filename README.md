@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juancater" alt="juancater" /></a> </p>
 
-- 🌱 I’m currently learning **React and more JavaScript**
+- 🌱 I’m currently learning **React and more JavaScript on Coderhouse**
 
 - 📫 How to reach me **juan_catera@hotmail.com**
 
